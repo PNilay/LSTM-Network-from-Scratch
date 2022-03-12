@@ -8,4 +8,4 @@ LSTMs are a complex area of deep learning, and it is widely used in complex prob
 
 ## Text Generation
 
-- LSTM Text Generation Project File [Text Generation Notebook](https://pages.github.com/).
+- LSTM Text Generation Project File [Text Generation Notebook](https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/Text%20Generation/Text_Generation_LSTM_V2.ipynb)
