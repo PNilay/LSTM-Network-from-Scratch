@@ -1,3 +1,7 @@
-# LSTM-Network-from-Scratch
+# LSTM Network From Scratch
 
-<h1> Lstm network from Scratch </h1>
+## Description
+
+**Long Short Term Memory (LSTM)** networks are a modified version of Recurrent Neural Network (RNN) which allow information to persist to the next stage. The LSTM network is capable of learning order dependence in sequence prediction problems and also mitigating the vanishing gradient problem faced by traditional RNN models.
+
+LSTMs are a complex area of deep learning, and it is widely used in complex problem domains like speech recognition, language translation, self driving cars, automated traidings, image recognition in many more. In this project implemented text generation and MNIST handwritten digit classification models using LSTM network from scratch.
