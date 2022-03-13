@@ -1,4 +1,4 @@
-# LSTM Network From Scratch
+# LSTM Network From Scratch (Text Generation & Image Classification)
 
 ## Description
 
@@ -8,4 +8,10 @@ LSTMs are a complex area of deep learning, and it is widely used in complex prob
 
 ## Text Generation
 
-- LSTM Text Generation Project File [Text Generation Notebook](https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/Text%20Generation/Text_Generation_LSTM_V2.ipynb)
+- LSTM Text Generation Project File: [Text Generation Notebook](https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/Text%20Generation/Text_Generation_LSTM_V2.ipynb)
+
+Text Generation is a subfield of natural language processing (NLP), which is the ability of computers to understand human languages as it is spoken and written. NLP uses knowledge in artificial intelligence, computational linguistics and computer science to intuitively generate natural language texts, which can fulfill certain requirements. Text generation, speech to text, translation system, text summarization and sentiment analysis are some of the popular NLP problems.
+
+**Text generation is the task of producing new text with the intention to bear a resemblance to human-written text.** Text generation model is trained using sample input and outputs to learn probabilities about what character will come next in a sequence. A trained text generation model predicts the next character based on the previous sequence of characters used in the text. Language generation model can be operated at character level, word level, sequence level or even paragraph level.
+
+In this project, a character level text generation model is implemented and trained using LSTM neural network for generation of natural language text.
