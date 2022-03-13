@@ -15,3 +15,10 @@ Text Generation is a subfield of natural language processing (NLP), which is the
 **Text generation is the task of producing new text with the intention to bear a resemblance to human-written text.** Text generation model is trained using sample input and outputs to learn probabilities about what character will come next in a sequence. A trained text generation model predicts the next character based on the previous sequence of characters used in the text. Language generation model can be operated at character level, word level, sequence level or even paragraph level.
 
 In this project, a character level text generation model is implemented and trained using LSTM neural network for generation of natural language text.
+
+### Three Important layers of text generation model:
+  1. Input layer: Takes the one-hot-encoding of a character as input
+  2. LSTM Layer: Computes the output using LSTM units. Multiple layers of LSTM blocks can be added in the model to improve text generation accuracy.
+  3. Output Layer: Computes the probability of the best possible next character in the sequence
+
+## Image Classification (MNIST Digits Classification)
