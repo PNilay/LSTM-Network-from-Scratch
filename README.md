@@ -39,13 +39,16 @@ Technology becomes a crucial part of our daily life where artificial intelligenc
 
 In this project implemented and trained a LSTM model from scratch to classify MNIST handwritten digit images. Digit classification systems are used to recognize the digits from different types of sources such as emails, bank cheques, papers, images, etc. Some of the widely used applications of handwritten image classification systems are implemented in banks to read the amount on bank cheques to process them, recognize number plates of the vehicle from the video and images, convert numeric entries in forms filled up by hand to digital, and so on. Combined handwritten digits and character classification is also implemented in the U.S. Postal Service (USPS), for address recognition to automate the letter sorting.
 
-<img src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/Sample%20MNIST%20Digit%20dataset%20images.png" width="50%" >
+<img src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/Sample%20MNIST%20Digit%20dataset%20images.png" width="70%" >
 Sample images from MNIST dataset
 
 ### Image Classification Results 
 The Implementation of the LSTM handwritten digits classification model in python from scratch performed really well. After training the two layer LSTM image classification model for four epochs, the outstanding testing and training accuracies of 96.48 and 96.895 archived respectively. 
 
-<img alt= "Image Classification Loss" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/ImgClassification_loss.png" width="50%" >
-<img alt= "Image Classification Accuracy" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/ImgClassification_Accuracy.png" width="50%" >
+#### Cross entropy and smooth loss for Image Classification model
+<img alt= "Image Classification Loss" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/ImgClassification_loss.png" width="60%" >
+
+#### Training and testing accuracies  for image classification model
+<img alt= "Image Classification Accuracy" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/ImgClassification_Accuracy.png" width="60%" >
 
 
