@@ -29,7 +29,7 @@ Technology becomes a crucial part of our daily life where artificial intelligenc
 
 In this project implemented and trained a LSTM model from scratch to classify MNIST handwritten digit images. Digit classification systems are used to recognize the digits from different types of sources such as emails, bank cheques, papers, images, etc. Some of the widely used applications of handwritten image classification systems are implemented in banks to read the amount on bank cheques to process them, recognize number plates of the vehicle from the video and images, convert numeric entries in forms filled up by hand to digital, and so on. Combined handwritten digits and character classification is also implemented in the U.S. Postal Service (USPS), for address recognition to automate the letter sorting.
 
-<img src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/Sample%20MNIST%20Digit%20dataset%20images.png" width="200" height="100">
+<img src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/Sample%20MNIST%20Digit%20dataset%20images.png" width="50%" >
 *Sample images from MNIST dataset*
 
 
