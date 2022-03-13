@@ -45,7 +45,7 @@ Sample images from MNIST dataset
 ### Image Classification Results 
 The Implementation of the LSTM handwritten digits classification model in python from scratch performed really well. After training the two layer LSTM image classification model for four epochs, the outstanding testing and training accuracies of 96.48 and 96.895 archived respectively. 
 
-<img alt= "Before trainning output" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/Text%20Generation/textgen_before.png" width="90%" >
-<img alt= "Before trainning output" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/Text%20Generation/textgen_before.png" width="90%" >
+<img alt= "Image Classification Loss" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/ImgClassification_loss.png" width="50%" >
+<img alt= "Image Classification Accuracy" src="https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/ImgClassification_Accuracy.png" width="50%" >
 
 
