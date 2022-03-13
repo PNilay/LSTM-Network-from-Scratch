@@ -22,3 +22,9 @@ In this project, a character level text generation model is implemented and trai
   3. Output Layer: Computes the probability of the best possible next character in the sequence
 
 ## Image Classification (MNIST Digits Classification)
+
+- LSTM MNIST Image Classification Project File: [Text Generation Notebook](https://github.com/PNilay/LSTM-Network-from-Scratch/blob/main/MNIST%20Digit%20Classification/MNIST_LSTM_from_Scratch.ipynb)
+
+Technology becomes a crucial part of our daily life where artificial intelligence is playing a very important role in technological advancement. Image classification is the application of such future technology that changed the way we used to see the world. It is the task that attempts to comprehend an entire image as a whole and classify it to a specific label from a fixed set of categories. Image classification models can be implemented using either feed-forward neural networks (CNN) or recurrent Neural networks (RNN, LST) and it is one of the core problems in computer vision, with a large variety of practical applications.
+
+In this project implemented and trained a LSTM model from scratch to classify MNIST handwritten digit images. Digit classification systems are used to recognize the digits from different types of sources such as emails, bank cheques, papers, images, etc. Some of the widely used applications of handwritten image classification systems are implemented in banks to read the amount on bank cheques to process them, recognize number plates of the vehicle from the video and images, convert numeric entries in forms filled up by hand to digital, and so on. Combined handwritten digits and character classification is also implemented in the U.S. Postal Service (USPS), for address recognition to automate the letter sorting.
